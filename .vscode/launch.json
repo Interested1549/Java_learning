@@ -1,0 +1,195 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "codelanguage",
+            "request": "launch",
+            "mainClass": "codexl4.codelanguage",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "salary",
+            "request": "launch",
+            "mainClass": "codexl4.salary",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "checkletter",
+            "request": "launch",
+            "mainClass": "codexl3.checkletter",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "print",
+            "request": "launch",
+            "mainClass": "codexl3.print",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "ifc",
+            "request": "launch",
+            "mainClass": "codexl3.ifc",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "es1",
+            "request": "launch",
+            "mainClass": "es1",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "f1",
+            "request": "launch",
+            "mainClass": "f1",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "employeedata",
+            "request": "launch",
+            "mainClass": "codexl2.employeedata",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "book1",
+            "request": "launch",
+            "mainClass": "bookstore.book1",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "book2",
+            "request": "launch",
+            "mainClass": "bookstore.book2",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "book1",
+            "request": "launch",
+            "mainClass": "bookstore.published.book1",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "book1",
+            "request": "launch",
+            "mainClass": "bookstore.Published.book1",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "carstore",
+            "request": "launch",
+            "mainClass": "car.carstore",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "carstore",
+            "request": "launch",
+            "mainClass": "codexl1.car.carstore",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "hpstore",
+            "request": "launch",
+            "mainClass": "headphone.hpstore",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "phone_storage",
+            "request": "launch",
+            "mainClass": "codexl1.phonemanage.phone_storage",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "phone_storage",
+            "request": "launch",
+            "mainClass": "phonemanage.phone_storage",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "book1",
+            "request": "launch",
+            "mainClass": "codexl1.Published.book1",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "book1",
+            "request": "launch",
+            "mainClass": "Published.book1",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "book2",
+            "request": "launch",
+            "mainClass": "Not_published.book2",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "book2",
+            "request": "launch",
+            "mainClass": "codexl1.book2",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "book1",
+            "request": "launch",
+            "mainClass": "codexl1.book1",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Codex.Demo",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Codex.lesson.Demo",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
+            "name": "codex",
+            "request": "launch",
+            "mainClass": "code.codex",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
