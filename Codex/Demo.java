@@ -11,5 +11,13 @@ public class Demo {
         svA.phone = "0123456789";
         svA.gpa = 5;
         svA.introduce();
+
+        Student svB = new Student();
+        svB.rollNumber = "B002";
+        svB.fullName = "Brian Smith";
+        svB.email = "Brain273@gmail.com";
+        svB.phone = "0987654321";
+        svB.gpa = 4;
+        svB.introduce();
     }
 }

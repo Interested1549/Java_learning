@@ -7,6 +7,7 @@ public class codelanguage {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the letter of your first letter of code language: ");
         char letter = scanner.next().charAt(0);
+        // create a switch of the code language
         switch (letter) {
             case 'A','a':
                 System.out.println("Ada");

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "code_testing",
+            "request": "launch",
+            "mainClass": "Test_package.code_testing",
+            "projectName": "Codex.java_71380751"
+        },
+        {
+            "type": "java",
             "name": "codelanguage",
             "request": "launch",
             "mainClass": "codexl4.codelanguage",

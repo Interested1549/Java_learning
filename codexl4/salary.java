@@ -7,7 +7,6 @@ public class salary {
         double salary = scanner.nextDouble();
         System.out.println("enter your grade:");
         char grade = scanner.next().charAt(0);
-        double bonus = 0;
         int allowance = 100;
         if (salary < 0) {
             System.out.println("Salary cannot be negative.");
@@ -22,7 +21,6 @@ public class salary {
                 break;
             default:
                 break;
-            
         }
         System.out.println("your salary is:" + (salary + allowance));
     }
